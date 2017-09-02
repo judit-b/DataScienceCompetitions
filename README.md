@@ -1,2 +1,2 @@
 # DataScienceCompetitions
-Data science competitions on Kaggle, Hackerearth and Analytics Vidhya
+Data science competitions organized by Kaggle, Hackerearth and Analytics Vidhya
