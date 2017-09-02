@@ -1,1 +1,1 @@
-Competitions on kaggle.com
+Competitions on www.kaggle.com
